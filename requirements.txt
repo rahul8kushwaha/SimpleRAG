@@ -1,0 +1,1 @@
+pdfplumber langchain_chroma langchain_community openai
